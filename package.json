@@ -1,0 +1,26 @@
+{
+  "name": "sqlauto",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "bootstrap": "^5.1.3",
+    "postcss-csso": "^6.0.0",
+    "vite-plugin-html": "^3.2.0"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.1.3",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "cssnano": "^5.1.7",
+    "csso": "^5.0.3",
+    "postcss": "^8.4.13",
+    "purgecss": "^4.1.3",
+    "sass": "^1.51.0",
+    "vite": "^4.2.1"
+  }
+}
